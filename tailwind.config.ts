@@ -11,6 +11,9 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        romanticPink: "#FFC0CB",
+        warmRed: "#FF6F61",
+        softYellow: "#FFF8DC",
       },
     },
   },
